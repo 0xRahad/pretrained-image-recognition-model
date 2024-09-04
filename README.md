@@ -31,7 +31,3 @@ Once in the conda environment, run:
 ```bash
 jupyter notebook
 ```
-
-## Blog
-
-You can read the blog post related with this project [here (English)](http://datasmarts.net/using-pretrained-networks-for-image-recognition/) or [here (Spanish)](https://datasmarts.net/es/usando-una-red-neuronal-pre-entrenada-para-reconocimiento-de-imagenes/).
